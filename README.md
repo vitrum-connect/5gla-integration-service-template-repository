@@ -1,4 +1,4 @@
-# Farm21 integration service
+# 5gLa integration service
 
 ## Profiles
 
